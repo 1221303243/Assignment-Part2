@@ -4,7 +4,7 @@ This is a text-based, simplified version of the Alien Path game. Players need to
 
 ![ALien vs Zombie](Screenshot%202023-02-01%20155628.jpg)
 
-This is a YouTube link that will bring you to the video demo https://youtu.be/AC2U8OEz6UQ
+This is a YouTube link that will bring you to the video demo 
 ## Compilation Instructions
 
 ```

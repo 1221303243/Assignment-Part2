@@ -2,7 +2,7 @@
 
 This is a text-based, simplified version of the Alien Path game. Players need to defeat all the zombies that apear on the game board. During the game, the Alien can obtain specific helps from the objects in the game in order to defeat the Zombies. 
 
-![Alien vs Zombie](Screenshot%202023-02-19%20200729.jpg)
+![](Screenshot%202023-02-19%20200729.jpg)
 
 This is a YouTube link that will bring you to the video demo 
 ## Compilation Instructions

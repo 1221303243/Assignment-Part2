@@ -2,14 +2,14 @@
 
 This is a text-based, simplified version of the Alien Path game. Players need to defeat all the zombies that apear on the game board. During the game, the Alien can obtain specific helps from the objects in the game in order to defeat the Zombies. 
 
-![ALien vs Zombie](Screenshot%202023-02-01%20155628.jpg)
+![Alien vs Zombie](Screenshot%202023-02-19%20200729.jpg)
 
 This is a YouTube link that will bring you to the video demo 
 ## Compilation Instructions
 
 ```
 To compile and build a C++ program into an executable program, type:
-g++ AlienvsZombie.cpp
+g++ alienvszombie2.cpp
 Then type .\a to run the program
 
 ```

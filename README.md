@@ -16,19 +16,16 @@ Then type .\a to run the program
 
 ## User Manual
 
-1. Copy our code into Visual Studio Code.
+1. Firstly, press "enter" to proceed. Then it will show you the game dashboard, and you can choose whether you want to change the game settings or not.
+2. After setting up, for a better understanding of the game, you can type in the command "help" and it will show you to see all the commands of the game.
+3. Let's type in "right" to start the game.
+4. Game notes, 1- When was the game every time you encountered a rock, it will reset the attack.
+5. Game notes, 2- The game would show-"fail to attack" when the attack range is too low.
+6. Game notes, 3- Try to change the arrow direction when you encountered a pod.
+7. Game notes, 4- The game would show-"stop moving" when was the game hit a wall, it will reset the trail.
+8. When finishing the game, we just type in the command "quit"
+9. Above all are the user manual for the Alien vs Zombie game. Try to enjoy this game and thank you for your participation.
 
-2. Click the “Compile” button to run the code.
-
-3. The Game Dashboard will display default setting of the game, which is Columns: 19, Rows: 3.
-
-4. Press “y” if you want to change the default settings. Press “n” if you’re comfortable with the default settings.
-
-5. If you press “y” previously , the system will ask to enter columns and rows. Enter your desired columns and rows. (The columns and rows number’s must be an odd number.)
-
-5. The system will ask if you want to start the game.  Enter “y” if you want to start the game. Otherwise, enter “n”.
-
-6. It will display the game board with the columns and rows that you entered.
 ## Progress Log
 
 - [Part 1](PART1.md)

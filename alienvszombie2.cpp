@@ -1,7 +1,7 @@
 // *********************************************************
 // Course: TCP1101 PROGRAMMING FUNDAMENTALS
 // Year: Trimester 1, 2022/23 (T2215)
-// Lab: TxxL
+// Lab: TT4L
 // Names: Arif Faisal Bin Zakaria | Aizam Nazmien Bin Alinoordin | KOK YEW YAN
 // IDs: 1221303243 | 1221303556 | 1211103790
 // Emails: 1221303243@student.mmu.edu.my | 1221303556@student.mmu.edu.my | 1211103790@student.mmu.edu.my

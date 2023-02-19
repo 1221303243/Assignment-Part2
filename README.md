@@ -4,7 +4,7 @@ This is a text-based, simplified version of the Alien Path game. Players need to
 
 ![Alt text](Screenshot%202023-02-19%20204552.jpg)
 
-This is a YouTube link that will bring you to the video demo 
+This is a YouTube link that will bring you to the video demo https://www.youtube.com/watch?v=zPpfaA0WEdU&ab_channel=AizamNazmienAlinoordin
 ## Compilation Instructions
 
 ```
